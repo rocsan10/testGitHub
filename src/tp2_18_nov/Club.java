@@ -12,7 +12,7 @@ public class Club extends Produit{
     public Club(String designation, String reference,boolean estEnFer) {
         super(designation, reference);
         this.estEnFer = estEnFer;
-        System.out.println("test");
+        System.out.println("test2");
     }    
 
     @Override
